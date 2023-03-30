@@ -10,53 +10,10 @@
 
 Passionate about technology, digital products and automation. Always looking to write code that humans can read and machines interpret efficiently. I like code design, and applying computer science concepts in my daily life
 
-
-
-## Technical Skills
-
-Proficient in / with:
-- Ruby and Rails
-- Object-oriented programming
-- Refactoring techniques
-- TDD
-- Git version control and GitHub
-- Unit testing
-
-Experience in / with:
-- JavaScript
-- React and Vue
-- Modern CSS
-- Parallel / concurrent programming
-- React Native
-- Working from the Unix / Linux command line
-
-
-## Education
-*Estácio* \
-Associate's degree, Analysis and systems development | 2023 - 2025
-  • Creation of database systems
-  • Algorithms and data structure
-  • Cloud Computing
-  • COMPUTER ARCHITECTURE
-
-*Instituto Federal do Ceará* \
-Bachelor's degree, Telecommunication Engineering | 2014 - 2021 (dropout)
-  The university introduced me and opened all the doors and paths that led me to build my career, subjects such as: calculus, algebra, signs and systems showed me that I am much more capable than I ever imagined. I was very grateful for my years there and I would very much like to finish my course one day, since there is so little left, but life has prepared new challenges for me.
-
-
-
-## Notable Projects and Collaborations (Past and Present)
-
-- Developed and published React Native apps in early years of react
-- Integrated a Rails project with firebase web push notications to trigger 1M+ messages
-- Collaborated on open-source software that has been deposited into the 2020
-  GitHub Archive Program (Arctic Code Vault)
-
 ## Work Experience
 
 
-
-*Software Engineer* \
+*Kindbody* \
 Software Engineer II | may 2021 - current
   I work at Kindbody to help and empower people to build their families.
   • Using ruby and rails for designing, architecting, and building our graphQL monolith
@@ -80,6 +37,43 @@ Software Developer | april 2018 - Jan 2020
 *Instituto Federal de Educação, Ciência e Tecnologia do Ceará* \
 Intership | march 2016 - June 2017
 - I worked as a intern for IFCE developing web solutions with HTML, CSS and php. It was my first contact with software development.
+
+## Technical Skills
+
+Proficient in / with:
+- Ruby and Rails
+- Object-oriented programming
+- Refactoring techniques
+- TDD
+- Git version control and GitHub
+- Unit testing
+
+Experience in / with:
+- JavaScript
+- React and Vue
+- Modern CSS
+- Parallel / concurrent programming
+- React Native
+- Working from the Unix / Linux command line
+## Notable Projects and Collaborations (Past and Present)
+
+- Developed and published React Native apps in early years of react
+- Integrated a Rails project with firebase web push notications to trigger 1M+ messages
+- Collaborated on open-source software that has been deposited into the 2020
+  GitHub Archive Program (Arctic Code Vault)
+
+## Education
+*Estácio* \
+Associate's degree, Analysis and systems development | 2023 - 2025
+  • Creation of database systems
+  • Algorithms and data structure
+  • Cloud Computing
+  • COMPUTER ARCHITECTURE
+
+*Instituto Federal do Ceará* \
+Bachelor's degree, Telecommunication Engineering | 2014 - 2021 (dropout)
+  The university introduced me and opened all the doors and paths that led me to build my career, subjects such as: calculus, algebra, signs and systems showed me that I am much more capable than I ever imagined. I was very grateful for my years there and I would very much like to finish my course one day, since there is so little left, but life has prepared new challenges for me.
+
 
 ## References and Letters of Recommendation
 
