@@ -15,7 +15,7 @@ Passionate about technology, digital products and automation. Always looking to 
 
 *Kindbody* \
 Software Engineer II | may 2021 - current
-  I work at Kindbody to help and empower people to build their families.
+  - I work at Kindbody to help and empower people to build their families.
   • Using ruby and rails for designing, architecting, and building our graphQL monolith
   • Working with Rspec applying TDD using the best practices 
   • Created the backend for payments integrating with stripe, allowing patients to make easy and transparent payments
